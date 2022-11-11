@@ -85,13 +85,14 @@ header h1:before {
 header h2 {
   font-size: 18px;
   font-weight: 300;
-  color: #666;
+  color: rgb(207, 207, 207);
 }
 
 #downloads .btn {
   display: inline-block;
   text-align: center;
   margin: 0;
+  border-color: rgb(212, 212, 212);
 }
 
 /* Main Content

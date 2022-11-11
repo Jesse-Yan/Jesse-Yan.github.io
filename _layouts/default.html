@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     {% include head-custom.html %}
 
 {% seo %}
@@ -20,11 +21,9 @@
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
         <section id="downloads">
-          {% if site.show_downloads %}
-            <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
-            <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
-          {% endif %}
-          <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+          <a href="mailto:cyan46@wisc.edu" class="btn  btn-github"><i class="fa">&#xf0e0;</i></a>
+          <a href="https://github.com/Jesse-Yan" class="btn btn-github"><i style="font-size:16px" class="fa">&#xf09b;</i></a>
+          <a href="{{ site.github.repository_url }}/assets/files/cv_chengpo.pdf" class="btn btn-github"><i style="font-size:16px" class="fa">&#xf016;</i></a>
         </section>
       </div>
     </header>
