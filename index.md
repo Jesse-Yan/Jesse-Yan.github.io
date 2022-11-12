@@ -33,7 +33,7 @@ Exploring kNN, Stg CSE, and Gaussian Kernel
 
 ### Identifying Defect Formation Mechanisms from X-ray Imaging Data with Machine Learning
 ```
-Engaging with CV & Measurements
+Engaging with BSANet & Measurements
 ```
 
 ### SWE @ Skyworth
