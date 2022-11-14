@@ -8,7 +8,7 @@ I am an undergraduate student studying Computer Science and Data Science at the 
 
 ## Publications
 
-[1] [Conference Paper] BAGPIPE: Accelerating Deep Recommendation Model Training. Saurabh Agarwal, _**Chengpo Yan**_, Ziyi Zhang, Shivaram Venkataraman – OSDI 2023. Under Review.
+[1] [Conference Paper] BAGPIPE: Accelerating Deep Recommendation Model Training. Saurabh Agarwal, _**Chengpo Yan**_, Ziyi Zhang, Shivaram Venkataraman – OSDI 2023. In Submission.
 
 ## Education
 
