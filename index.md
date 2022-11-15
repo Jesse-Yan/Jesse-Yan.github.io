@@ -43,8 +43,8 @@ Optimized an AIOT application: Swaiot
 
 ## Interests
 ```
-Would go cycling if having a bicycle
-Love to watch anime
-Collecting old GPUs like GTX 780ti
-Overclocking specific devices
+Cycling
+Watching Anime
+Collecting old GPUs ~GTX980Ti
+Overclocking CPUs and GPUs
 ```
