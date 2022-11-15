@@ -6,7 +6,7 @@ layout: default
 
 I am an undergraduate student studying Computer Science and Data Science at the University of Wisconsin-Madison. My primary research interests include Distributed Systems, Machine Learning Systems, and Networking. Currently I am working with Prof. [Shivaram Venkataraman](https://shivaram.org/), Prof. [Suman Banerjee](https://pages.cs.wisc.edu/~suman/), and Prof. [Dane Morgan](https://directory.engr.wisc.edu/mse/faculty/morgan_dane).
 
-## Publications
+## Publication
 
 [1] [Conference Paper] BAGPIPE: Accelerating Deep Recommendation Model Training. Saurabh Agarwal, _**Chengpo Yan**_, Ziyi Zhang, Shivaram Venkataraman – OSDI 2023. In Submission.
 
