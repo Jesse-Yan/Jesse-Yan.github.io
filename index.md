@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-I am an undergraduate student studying Computer Science and Data Science at the University of Wisconsin-Madison. My primary research interests include Distributed Systems, Machine Learning Systems, and Networking. Currently I am working with Prof. [Shivaram Venkataraman](https://shivaram.org/), Prof. [Suman Banerjee](https://pages.cs.wisc.edu/~suman/), and Prof. [Dane Morgan](https://directory.engr.wisc.edu/mse/faculty/morgan_dane).
+I am an undergraduate student studying Computer Science and Data Science at the University of Wisconsin-Madison. My research focuses on Systems and Networking. Currently I am working with Prof. [Shivaram Venkataraman](https://shivaram.org/), Prof. [Suman Banerjee](https://pages.cs.wisc.edu/~suman/), and Prof. [Dane Morgan](https://directory.engr.wisc.edu/mse/faculty/morgan_dane).
 
 ## Publication
 
