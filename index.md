@@ -8,7 +8,7 @@ I am an undergraduate student studying Computer Science and Data Science at the 
 
 ## Publication
 
-[1] [Conference Paper] BAGPIPE: Accelerating Deep Recommendation Model Training. Saurabh Agarwal, _**Chengpo Yan**_, Ziyi Zhang, Shivaram Venkataraman – [arXiv preprint](https://arxiv.org/abs/2202.12429). Under submission.
+[1] [Conference Paper] BagPipe: Accelerating Deep Recommendation Model Training. Saurabh Agarwal, _**Chengpo Yan**_, Ziyi Zhang, Shivaram Venkataraman – [arXiv preprint](https://arxiv.org/abs/2202.12429). Under submission.
 
 ## Education
 
@@ -21,7 +21,7 @@ I am an undergraduate student studying Computer Science and Data Science at the 
 
 ## Experience
 
-### BAGPIPE: Accelerating Deep Recommendation Model Training
+### BagPipe: Accelerating Deep Recommendation Model Training
 ```
 A distributed system for training Deep Learning Recommendation Models
 ```
