@@ -54,7 +54,7 @@ li {
 header {
   background: rgba(0, 0, 0, 0.1);
   width: 100%;
-  border-bottom: 1px dashed $conifer; //header;
+  border-bottom: 1px dashed aliceblue; //header;
   padding: 20px 0;
   margin: 0 0 40px 0;
 }
@@ -65,7 +65,7 @@ header h1 {
   margin: 0 0 0 -40px;
   font-weight: bold;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: $conifer;//$header;
+  color: rgb(253, 255, 254);//$header;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
@@ -109,7 +109,7 @@ section img {
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: $header;
+  color: rgb(126, 254, 222);
   letter-spacing: -0.03em;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
@@ -117,7 +117,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h3 {
-  color: rgb(5, 165, 40);
+  color: rgb(2, 178, 248);
 }
 
 #main_content h1 {
@@ -249,8 +249,9 @@ hr {
 */
 
 a {
-  color: #63c0f5;
-  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  color: #c8ff52;
+  text-shadow: 0 0 5px rgba(5, 67, 125, 0.5);
+  text-decoration: none;
 }
 
 /* Clearfix */
