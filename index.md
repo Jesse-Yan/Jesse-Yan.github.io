@@ -28,7 +28,7 @@ A distributed system for training Deep Learning Recommendation Models
 
 ### Wi-Fi & Bluetooth Based Indoor Localization
 ```
-Exploring kNN, Stg CSE, and Gaussian Kernel
+Exploring kNN, Stg CSE, and Gaussian Kernel Localization Algorithms
 ```
 
 ### Identifying Defect Formation Mechanisms from X-ray Imaging Data with Machine Learning
