@@ -15,10 +15,5 @@ jobs:
         run: gem install bundler -v 2.4.22
       - name: Install Dependencies
         run: bundle _2.4.22_ install
-      - name: Debug
-        run: |
-          ruby -v
-          bundler -v
-          ls -l script/bootstrap
       - name: Run Test
         run: script/cibuild
