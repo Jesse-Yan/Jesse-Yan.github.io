@@ -9,6 +9,7 @@ I am a second-year CS graduate student at the University of Wisconsin-Madison. M
 ## Publication
 
 [1] [Conference Paper] BagPipe: Accelerating Deep Recommendation Model Training. Saurabh Agarwal, _**Chengpo Yan**_, Ziyi Zhang, Shivaram Venkataraman. [SOSP 2023]
+
 [2] [Journal] Deep-Learning-Based segmentation of keyhole in In-situ X-ray imaging of laser powder Bed fusion. William Dong, Jason Lian, _**Chengpo Yan**_, Yiran Zhong, Sumanth Karnati, Qilin Guo, Lianyi Chen, Dane Morgan. [Materials 2024]
 
 ## Education
