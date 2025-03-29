@@ -10,8 +10,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.7
-          bundler: 2.4.22
+          ruby-version: 3.1
           bundler-cache: true
       - name: build
         run: script/bootstrap
