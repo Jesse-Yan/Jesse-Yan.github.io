@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-I am a second-year CS graduate student at the University of Wisconsin-Madison. My research focuses on Machine Learning Systems. During my undergraduate, I worked with Prof. [Shivaram Venkataraman](https://shivaram.org/), Prof. [Suman Banerjee](https://pages.cs.wisc.edu/~suman/), and Prof. [Dane Morgan](https://directory.engr.wisc.edu/mse/faculty/morgan_dane).
+I am a third-year CS graduate student at the University of Wisconsin-Madison, advised by Prof. [Suman Banerjee](https://pages.cs.wisc.edu/~suman/). My research focuses on Machine Learning Systems.
 
 ## Publication
 
