@@ -16,7 +16,7 @@ I am a third-year CS graduate student at the University of Wisconsin-Madison, ad
 
 ### University of Wisconsin-Madison
 ```
-> Sep 2023 - ？？？
+> Sep 2023 - May 2028
 > Ph.D. in CS
 ```
 
