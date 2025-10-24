@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-I am a third-year CS graduate student at the University of Wisconsin-Madison, advised by Prof. [Suman Banerjee](https://pages.cs.wisc.edu/~suman/). My research focuses on Machine Learning Systems.
+I am a third-year CS graduate student at the University of Wisconsin-Madison, advised by Prof. [Suman Banerjee](https://pages.cs.wisc.edu/~suman/). My research focuses on Systems and Machine Learning.
 
 ## Publication
 
